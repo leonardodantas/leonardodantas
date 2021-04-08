@@ -5,8 +5,7 @@
 
 
 ### Sobre mim
-Formado em Ciencia da Computação e apaixonado por tecnologia e desenvolvimento. Possuo conhecimento em linguagens voltadas tanto para o backend quanto para o frontend. Venho me dedicando a melhorar e obter uma qualidade de desenvolvimento voltada para codificação limpa, testavel e performatica, além de tecnicas de devops.
-
+Formado em Ciência da Computação e apaixonado por tecnologia e desenvolvimento. Possuo conhecimento em linguagens voltadas tanto para o backend quanto para o frontend. Venho me dedicando a melhorar e obter uma qualidade de desenvolvimento voltada para codificação limpa, testável e performatica, além de técnicas de Devops.
 
 ### Tecnologias que conheço
 
