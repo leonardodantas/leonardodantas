@@ -5,11 +5,8 @@
 
 
 ### Sobre mim
-Formado 
+Formado em Ciencia da Computação e apaixonado por tecnologia e desenvolvimento. Possuo conhecimento em linguagens voltadas tanto para o backend quanto para o frontend. Venho me dedicando a melhorar e obter uma qualidade de desenvolvimento voltada para codificação limpa, testavel e performatica, além de tecnicas de devops.
 
-- [Courses](https://www.treinaweb.com.br/cursos-online?q=fagner+pinheiro) 👨🏼‍🏫 - It's are technical courses on many technologies, such as Django, Flask, Python, Kotlin, Flutter, Dart, Git and more
-- [Blog](https://www.treinaweb.com.br/blog/author/fagner-pinheiro/) ✍🏼 - I'm write about many things.
-- [Website](https://fagnerpsantos.dev/) 💻 - Working on it.
 
 ### Tecnologias que conheço
 
