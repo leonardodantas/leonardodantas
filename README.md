@@ -4,8 +4,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-dantas-78599797/)](https://www.linkedin.com/in/leonardo-dantas-78599797/)
 
 
-### About me
-I'm a {backend, frontend and mobile} developer and technical instructor at [@treinaweb](https://www.treinaweb.com.br/).
+### Sobre mim
+Formado 
 
 - [Courses](https://www.treinaweb.com.br/cursos-online?q=fagner+pinheiro) 👨🏼‍🏫 - It's are technical courses on many technologies, such as Django, Flask, Python, Kotlin, Flutter, Dart, Git and more
 - [Blog](https://www.treinaweb.com.br/blog/author/fagner-pinheiro/) ✍🏼 - I'm write about many things.
@@ -26,14 +26,3 @@ I'm a {backend, frontend and mobile} developer and technical instructor at [@tre
 ### Minhas atividades no Github
 
 ![Leo Dantas GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonardodantas&show_icons=true)
-
-### Meus contatos
-<a target="_blank" href="https://www.linkedin.com/in/leonardo-dantas-78599797/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5518996764835">
-  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-</a>
-<a target="_blank" href="mailto:leonardordnt1317@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
