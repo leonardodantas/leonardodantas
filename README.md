@@ -22,3 +22,6 @@ Formado em Ciência da Computação e apaixonado por tecnologia e desenvolviment
 ### Minhas atividades no Github
 
 ![Leo Dantas GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonardodantas&show_icons=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardodantas)](https://github.com/anuraghazra/github-readme-stats)
